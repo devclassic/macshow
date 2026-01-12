@@ -10,8 +10,8 @@ import glob
 import dicom2jpg
 
 
-model = Medgemma()
-model.init()
+# model = Medgemma()
+# model.init()
 
 router = APIRouter(prefix="/image")
 
