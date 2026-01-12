@@ -1,0 +1,1 @@
+@element-plus/icons-vue @element-plus/nuxt @microsoft/fetch-event-source @vueuse/core @vueuse/nuxt axios element-plus js-audio-recorder markdown-it nuxt vue vue-router
